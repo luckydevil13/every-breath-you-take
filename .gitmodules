@@ -1,4 +1,4 @@
 [submodule "edge-tts"]
-	path = edge-tts
+	path = dir/edge-tts
 	url = git@github.com:luckydevil13/edge-tts.git
 	branch = master
