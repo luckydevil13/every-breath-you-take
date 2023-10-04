@@ -1,2 +1,8 @@
 [submodule]
 	recurse = true
+[status]
+	submodulesummary = 1
+[submodule "edge-tts"]
+	url = git@github.com:luckydevil13/edge-tts.git
+	active = true
+

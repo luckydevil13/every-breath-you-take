@@ -1,0 +1,3 @@
+[submodule "edge-tts"]
+	path = edge-tts
+	url = git@github.com:luckydevil13/edge-tts.git
